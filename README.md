@@ -1,2 +1,1 @@
-# comp-584-project5-QT
-Project 5 API
+https://qtran67.github.io/comp-584-project5-QT/
